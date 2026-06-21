@@ -12,3 +12,11 @@ concerns such as database-specific data types, indexes, and platform-dependent c
 
 This document represents the current logical understanding of the licensing domain and serves as the foundation for 
 subsequent design and implementation activities.
+
+## Scope
+
+This document builds upon the information presented in the System Domain Summary and the Conceptual Domain Model.
+
+Its purpose is to describe the logical structure of the National License Management System (NLMS) by identifying the main domain entities, their relationships, and the business concepts that emerged during the analysis process.
+
+This document intentionally focuses on the logical representation of the domain and excludes physical database implementation details.
