@@ -13,4 +13,24 @@ concerns such as database-specific data types, indexes, and platform-dependent c
 This document represents the current logical understanding of the licensing domain and serves as the foundation for 
 subsequent design and implementation activities.
 
+==================================================
+==================================================
 
+## Scope
+
+This document represents the first logical view of the NLMS domain model.
+
+The model includes the discovered entities, their attributes, and the relationships between them.
+
+Detailed analysis and attribute definitions are documented separately in:
+- 02-Core-Entities.md
+- 04-Domain-Relationships.md
+- 07-Entity-Attributes.md
+
+===================================================
+===================================================
+
+## Diagram
+
+The first version of the logical ERD is available at:
+docs/analysis/diagrams/logical-erd-v1.png
